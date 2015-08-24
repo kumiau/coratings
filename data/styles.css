@@ -1,0 +1,11 @@
+.corating img {
+  margin-right: 5px; }
+.corating a {
+  color: #666;
+  font-size: 75%;
+  font-weight: 600;
+  text-decoration: none; }
+  .corating a:hover {
+    text-decoration: underline; }
+
+/*# sourceMappingURL=styles.css.map */

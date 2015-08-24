@@ -1,0 +1,18 @@
+body {
+  background: red;
+}
+.corating {
+  border: 1px solid red;
+  img {
+    margin-right: 5px;
+  }
+  a {
+    color: #666;
+    font-size: 75%;
+    font-weight: 600;
+    text-decoration: none;
+    &:hover {
+      text-decoration:underline;
+    }
+  }
+}

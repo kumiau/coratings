@@ -1,0 +1,13 @@
+{
+  "title": "Ratings Colombia",
+  "name": "coratings",
+  "version": "0.0.1",
+  "description": "Extensión que permite ver la calificación de IMDB y Rotten Tomatoes en los principales portales de cine colombianos.",
+  "main": "index.js",
+  "author": "Santiago Restrepo @kumiau",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT"
+}
